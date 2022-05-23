@@ -169,9 +169,9 @@ public:
     }
 };
 
-// int main()
-// {
-//     Client client;
-//     client.Main();
-//     return 0;
-// }
+int main()
+{
+    Client client;
+    client.Main();
+    return 0;
+}
